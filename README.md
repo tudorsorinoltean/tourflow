@@ -1,9 +1,11 @@
 # ✈️ TourFlow — B2B2C Travel Booking Platform
 
-A full-featured travel agency management platform built with React 18, Tailwind CSS v3, and Firebase. Designed for travel agencies to manage packages and bookings, with a public-facing portal for clients to browse and book trips.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-tourflow--dev.web.app-blue?style=for-the-badge)](https://tourflow-dev.web.app)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%2B%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
-**Live Demo:** [tourflow-dev.web.app](https://tourflow-dev.web.app)  
-**Admin Login:** `admin@tourflow.com` / `Admin123!`
+A full-featured travel agency management platform built with React 18, Tailwind CSS v3, and Firebase. Designed for travel agencies to manage packages and bookings, with a public-facing portal for clients to browse and book trips — no account required.
 
 ---
 
