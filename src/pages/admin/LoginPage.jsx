@@ -74,6 +74,26 @@ export default function LoginPage() {
             {loading ? "Signing in..." : "Sign In"}
           </button>
         </form>
+
+        {/* Demo credentials card */}
+        <div className="mt-4 bg-indigo-50 border border-indigo-100 rounded-xl p-4">
+          <p className="text-xs font-semibold text-indigo-700 mb-2">Demo Access — Admin Panel</p>
+          <div className="space-y-0.5 mb-3">
+            <p className="text-xs text-indigo-600">
+              <span className="font-medium">Email:</span> demo@tourflow.app
+            </p>
+            <p className="text-xs text-indigo-600">
+              <span className="font-medium">Password:</span> Demo1234!
+            </p>
+          </div>
+          <button
+            type="button"
+            onClick={() => { setEmail("demo@tourflow.app"); setPassword("Demo1234!"); }}
+            className="w-full bg-indigo-100 hover:bg-indigo-200 text-indigo-700 font-medium py-2 rounded-lg text-xs transition-colors"
+          >
+            Use demo credentials
+          </button>
+        </div>
       </div>
     </div>
   );

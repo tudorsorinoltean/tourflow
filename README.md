@@ -9,6 +9,17 @@ A full-featured travel agency management platform built with React 18, Tailwind 
 
 ---
 
+## 🔐 Demo Access
+
+TourFlow has two separate entry points — no registration needed for either:
+
+| | URL | Credentials |
+|---|---|---|
+| **Public Portal** (client view) | [tourflow-dev.web.app](https://tourflow-dev.web.app) | No login required — browse and book freely |
+| **Admin Panel** (agency view) | [tourflow-dev.web.app/admin/login](https://tourflow-dev.web.app/admin/login) | Email: `demo@tourflow.app` / Password: `Demo1234!` |
+
+---
+
 ## 📸 Screenshots
 
 <table>
